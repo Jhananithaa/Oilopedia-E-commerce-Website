@@ -1,6 +1,5 @@
 # Oilopedia-Website
 
-1 Introduction
 Cooking oil is one of the most essential ingredients for our health. If our cooking oil is not good then
 it brings an unpleasant taste to our food and causes some health issue. Since there is a huge demand
 for cooking oil in India, “Oilopedia” is planning to sell quality cooking oil to the consumer like
